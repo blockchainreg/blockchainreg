@@ -3,7 +3,7 @@
 [Dyno Protocol](https://dynoprotocol.com) is building secure 🔐 and rewards based 🤫 blockchain. Visit the [Testnet](https://testnet.dynoscan.io/) 💫 which allows all holders to earn a reward on all transaction fees. 🆔
 
 
- <img align="right" alt="Coding" width="400" src="https://skyline.github.com/blockchainreg/2021">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🙋 Find us elsewhere
 
