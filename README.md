@@ -5,7 +5,7 @@
 
 ![Reggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=blockchainreg&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=blockchainreg)](https://github.com/blockchainreg/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=blockchainreg&theme=onedark)](https://github.com/blockchainreg/github-profile-trophy)
 
 ## 🙋 Find us elsewhere
 
